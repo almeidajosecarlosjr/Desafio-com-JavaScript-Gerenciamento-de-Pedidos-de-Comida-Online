@@ -25,8 +25,10 @@ Valor total: XX.YY, onde "XX.YY" é a soma de todos os pedidos com desconto em f
 ##### Exemplos ###
 ##################
 
-ENTRADA: 3              ##      SAIDA: Valor total: 47.16
-Pizza 29.90             ##
-Hambúrguer 15.50        ##
-Refrigerante 7.00       ##
-10%                     ##
+ENTRADA: 3     
+Pizza 29.90            
+Hambúrguer 15.50      
+Refrigerante 7.00       
+10%
+
+SAIDA: Valor total: 47.16
